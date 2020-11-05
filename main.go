@@ -17,11 +17,11 @@ import (
 	"github.com/anacrolix/missinggo/v2/resource"
 	"github.com/anacrolix/missinggo/x"
 	"github.com/anacrolix/tagflag"
-	"github.com/anacrolix/torrent"
-	"github.com/anacrolix/torrent/iplist"
-	"github.com/anacrolix/torrent/metainfo"
-	"github.com/anacrolix/torrent/storage"
-	sqliteStorage "github.com/anacrolix/torrent/storage/sqlite"
+	"github.com/azber/torrent"
+	"github.com/azber/torrent/iplist"
+	"github.com/azber/torrent/metainfo"
+	"github.com/azber/torrent/storage"
+	sqliteStorage "github.com/azber/torrent/storage/sqlite"
 )
 
 var flags = struct {

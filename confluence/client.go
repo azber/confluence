@@ -4,9 +4,9 @@ import (
 	"log"
 
 	"github.com/anacrolix/missinggo/v2/filecache"
-	"github.com/anacrolix/torrent"
-	"github.com/anacrolix/torrent/iplist"
-	"github.com/anacrolix/torrent/storage"
+	"github.com/azber/torrent"
+	"github.com/azber/torrent/iplist"
+	"github.com/azber/torrent/storage"
 )
 
 func NewDefaultTorrentClient() (ret *torrent.Client, err error) {

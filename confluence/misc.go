@@ -9,7 +9,7 @@ import (
 
 	"github.com/anacrolix/missinggo"
 	"github.com/anacrolix/missinggo/httptoo"
-	"github.com/anacrolix/torrent"
+	"github.com/azber/torrent"
 )
 
 // Path is the given request path.

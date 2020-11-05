@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/anacrolix/torrent"
-	"github.com/anacrolix/torrent/bencode"
-	"github.com/anacrolix/torrent/metainfo"
+	"github.com/azber/torrent"
+	"github.com/azber/torrent/bencode"
+	"github.com/azber/torrent/metainfo"
 	"golang.org/x/net/websocket"
 )
 

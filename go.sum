@@ -120,11 +120,8 @@ github.com/anacrolix/torrent v0.0.0-20180622074351-fefeef4ee9eb/go.mod h1:3vcFVx
 github.com/anacrolix/torrent v1.7.1/go.mod h1:uvOcdpOjjrAq3uMP/u1Ide35f6MJ/o8kMnFG8LV3y6g=
 github.com/anacrolix/torrent v1.9.0/go.mod h1:jJJ6lsd2LD1eLHkUwFOhy7I0FcLYH0tHKw2K7ZYMHCs=
 github.com/anacrolix/torrent v1.11.0/go.mod h1:FwBai7SyOFlflvfEOaM88ag/jjcBWxTOqD6dVU/lKKA=
+github.com/anacrolix/torrent v1.15.0 h1:ZU20blbusnfN+hkhsa1nfdIg3NDQbyHqocbFUylPlN4=
 github.com/anacrolix/torrent v1.15.0/go.mod h1:MFc6KcbpAyfwGqOyRkdarUK9QnKA/FkVg0usFk1OQxU=
-github.com/anacrolix/torrent v1.17.2-0.20201012223658-3820017a0c6d h1:18KN1TX7sW9PTLcIuxkyXKhG13hCsOBaLagKWpNldfw=
-github.com/anacrolix/torrent v1.17.2-0.20201012223658-3820017a0c6d/go.mod h1:JnoMhFCq4Hq5Q/A1BmXljEnjHzKWD2auPqbqf/xwFHA=
-github.com/anacrolix/torrent v1.17.2-0.20201013023405-07bc79dbdc03 h1:uf3SQZhKzd/sGydinn8nv6NOWTT13VQPwcOyvrLWCA8=
-github.com/anacrolix/torrent v1.17.2-0.20201013023405-07bc79dbdc03/go.mod h1:JnoMhFCq4Hq5Q/A1BmXljEnjHzKWD2auPqbqf/xwFHA=
 github.com/anacrolix/upnp v0.1.1/go.mod h1:LXsbsp5h+WGN7YR+0A7iVXm5BL1LYryDev1zuJMWYQo=
 github.com/anacrolix/upnp v0.1.2-0.20200416075019-5e9378ed1425 h1:/Wi6l2ONI1FUFWN4cBwHOO90V4ylp4ud/eov6GUcVFk=
 github.com/anacrolix/upnp v0.1.2-0.20200416075019-5e9378ed1425/go.mod h1:Pz94W3kl8rf+wxH3IbCa9Sq+DTJr8OSbV2Q3/y51vYs=
@@ -315,6 +312,7 @@ github.com/mattn/go-isatty v0.0.10/go.mod h1:qgIWMr58cqv1PHHyhnkY9lrL7etaEgOFcME
 github.com/mattn/go-sqlite3 v1.7.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
 github.com/mattn/go-sqlite3 v1.10.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
 github.com/mattn/go-sqlite3 v1.13.0/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
+github.com/mattn/go-sqlite3 v2.0.2+incompatible h1:qzw9c2GNT8UFrgWNDhCTqRqYUSmu/Dav/9Z58LGpk7U=
 github.com/mattn/go-sqlite3 v2.0.2+incompatible/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
 github.com/matttproud/golang_protobuf_extensions v1.0.1 h1:4hp9jkHxhMHkqkrB3Ix0jegS5sx/RkqARlsWZ6pIwiU=
 github.com/matttproud/golang_protobuf_extensions v1.0.1/go.mod h1:D8He9yQNgCq6Z5Ld7szi9bcBfOoFv/3dc6xSMkL2PC0=

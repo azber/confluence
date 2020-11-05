@@ -6,8 +6,8 @@ import (
 
 	"crawshaw.io/sqlite"
 	"crawshaw.io/sqlite/sqlitex"
-	"github.com/anacrolix/torrent"
-	pp "github.com/anacrolix/torrent/peer_protocol"
+	"github.com/azber/torrent"
+	pp "github.com/azber/torrent/peer_protocol"
 )
 
 // Provides torrent callbacks that can track peer information that would be useful for identifying

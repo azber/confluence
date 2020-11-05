@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/anacrolix/missinggo/refclose"
-	"github.com/anacrolix/torrent"
-	"github.com/anacrolix/torrent/metainfo"
+	"github.com/azber/torrent"
+	"github.com/azber/torrent/metainfo"
 )
 
 type Handler struct {

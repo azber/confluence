@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	xprometheus "github.com/anacrolix/missinggo/v2/prometheus"
-	"github.com/anacrolix/torrent"
+	"github.com/azber/torrent"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 )
